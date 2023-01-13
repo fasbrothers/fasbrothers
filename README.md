@@ -22,14 +22,7 @@
  <br/>
     <a href="https://github.com/fasbrothers/github-readme-stats"><img alt="fasbrothers's Github Stats" src="https://github-readme-stats.vercel.app/api?username=fasbrothers&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/fasbrothers/github-readme-stats"><img alt="Sanjar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fasbrothers&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
-  
-  <br/>
-<br/>
 
-<a href="https://github.com/fasbrothers/github-readme-activity-graph"><img alt="Sanjar Nigmatov's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=fasbrothers&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
-<br/>
 <br/>
 
 ## 🌐 Find me on the web:
